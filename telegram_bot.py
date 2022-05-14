@@ -9,7 +9,6 @@ echo.register_handlers_echo(dp)
 
 async def on_startup(_):
     print('[+] Бот запущен!')
-    await bot.send_message(5167573237, '[+] Бот запущен!')
 
 
 if __name__ == '__main__':
