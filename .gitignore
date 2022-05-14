@@ -1,0 +1,6 @@
+./venv
+bot_config.py
+.idea
+__pycache__
+./__pycache__
+/venv/
